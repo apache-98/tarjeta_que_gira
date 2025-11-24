@@ -243,19 +243,3 @@ serve .
 * Cambia `perspective` para más o menos profundidad.
 * Ajusta `transition` para velocidad o `cubic-bezier` para curvas personalizadas.
 * Añade sombras, gradientes, imágenes de fondo o iconos.
-
----
-
-## ✍️ Licencia
-
-Puedes usar este código libremente. Si quieres, añade una licencia (MIT) al repo.
-
----
-
-Si quieres, te hago:
-
-* la versión con `click` y accesibilidad completa con JS,
-* una versión en React (componente), o
-* un ejemplo con varias tarjetas en un grid listo para GitHub Pages.
-
-Dime cuál prefieres y lo creo.
